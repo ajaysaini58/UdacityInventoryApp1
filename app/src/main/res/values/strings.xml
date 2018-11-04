@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Strings for the ShowListActivity-->
+    <string name="the_list_contains">The list contains</string>
+    <string name="products">products</string>
+
+    <!--Strings for the AddItemActivity-->
+    <string name="required_field">Required</string>
+    <string name="error_while_adding">Error while adding Product</string>
+    <string name="product_added">Product added with row id:</string>
+    <string name="add_new_product_heading">Add New Product</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="price_field_hint">Price</string>
+    <string name="quantity_field_hint">Quantity</string>
+    <string name="supplier_name_hint">Supplier Name</string>
+    <string name="supplier_phone_number_hint">Supplier Phone Number</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="list_of_the_items_is_following">List of the items is following</string>
+</resources>
